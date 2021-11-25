@@ -1,25 +1,31 @@
 סקירה ספרותית:
+
 מאמר ראשון-
 הסבר כללי על המעבר ממעלית טיפשה לחכמה, השינויים בטכנולוגיה אשר מאפשרים את 
 ההתקדמות וייעול הזמנים ולמה הם הכרחיים: 
 https://www.popularmechanics.com/technology/infrastructure/a20986/the-hidden-
  /science-of-elevators
+ 
 מאמר שני- 
 בעיה עם מעלית אחת, הסבר מינימלי על איך המעלית עובדת עם מעלית אחת: 
 https://elevation.fandom.com/wiki/Elevator_algorithm
+
 מאמר שלישי-
 ניסיון לפתרון הבעיה עם אלגוריתם חישובי)מתמטיקה פשוטה( והגבלות מסוימות על מנת לתכנן 
 בהתאם- 
 /https://austingwalters.com/everyday-algorithms-elevator-allocation
+
 מאמר רביעי-
 ניסיון למזעור זמנים של הגעת מעלית לנקודת קריאה על ידי מציאת נקודת ההצבה האופטימלי: 
 https://idogreenberg.neocities.org/linked%20files/Articles/Elevators%20weighting%20time
 %20optimization.pdf
+
 מאמר חמישי-
 ניסיון לפתרון הבעיה על ידי מערכת מורכבת אלגוריתם בינה מלאכותית אשר מקבלת החלטות 
 עצירה בהתאם לנתונים התחלתיים על נקודות עומס ונקודות קריאה קיימות בבניין ולפיכך שילוח 
 המעליות: 
 https://www.cs.huji.ac.il/~ai/projects/2014/The_intelevator/files/report.pdf
+
 אלגוריתם אונליין: 
 נתבונן באלגוריתם שנועד לבצע אופטימיזציה בזמן ההמתנה לנוסעים במעליות חכמות . 
 באלגוריתם זה התייחסנו למ מד הזמן שכן זהו הנתון אותו התבקשנו לשפר ולבצע בצורה הטובה 
@@ -77,7 +83,8 @@ https://www.cs.huji.ac.il/~ai/projects/2014/The_intelevator/files/report.pdf
 לקריאה הבאה, בכך נייעל את הזמנים של כל המערכת. 
  :UML
  
- 
+ ![Screenshot 2021-11-25 170259](https://user-images.githubusercontent.com/80645472/143464742-dbe7d554-93ce-4a3f-b6bc-6b5c4c7f9a77.png)
+
  
 -JUNIT
 כתרחישים לבדיקת מערכת המעלית נרצה לבצע מספר תרחישי קצה 
